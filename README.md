@@ -1,4 +1,6 @@
-#Todo web App
+<# todo-web-app
+
+A full-stack task management dashboard built with FastAPI, React, and PostgreSQL.
 
 A full-stack task management dashboard built with **FastAPI**, **React**, and **PostgreSQL**. Easily add, view, and complete tasks with a clean UI and persistent database storage.
 
@@ -90,5 +92,5 @@ Todo/
 - Task data is saved in the PostgreSQL container volume.
 
 ##Author
-**Poornima J** - Full-stack Developer | [GitHub](https://github.com/)
+**Poornima J** - Full-stack Developer
 Thank you for reviewing!
