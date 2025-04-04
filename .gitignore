@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+.env
+*.log
+
+# Node
+node_modules/
+build/
+dist/
+.env.local
+
+# Docker
+*.pid
+*.db
+*.sock
+
+# VS Code
+.vscode/
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# OS files
+.DS_Store
+Thumbs.db
