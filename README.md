@@ -1,4 +1,4 @@
-#Todo Dashboard App
+#Todo web App
 
 A full-stack task management dashboard built with **FastAPI**, **React**, and **PostgreSQL**. Easily add, view, and complete tasks with a clean UI and persistent database storage.
 
