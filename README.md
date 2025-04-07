@@ -111,11 +111,6 @@ todo-web-app/
 │   └── Dockerfile
 ├── docker-compose.yml
 └── README.md
---Notes for Evaluators
-No external DB setup needed — PostgreSQL runs in Docker
-E2E tested with Cypress against localhost:3000
-All services are Dockerized and portable
-Clear coverage and working task flow
 
 --Author
 Poornima Jayaweera
